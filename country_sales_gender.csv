@@ -1,0 +1,1001 @@
+id,country,income,gender
+1,United States,$8223309.58,Female
+2,Croatia,$9686409.24,Female
+3,Croatia,$8365431.49,Male
+4,United States,$8056944.92,Female
+5,Colombia,$9118019.32,Female
+6,Poland,$3926699.67,Female
+7,Morocco,$2257508.57,Female
+8,China,$1103198.22,Male
+9,China,$698429.21,Female
+10,United States,$9993181.20,Female
+11,Philippines,$7311424.30,Male
+12,France,$2248011.22,Female
+13,Philippines,$35289.55,Female
+14,China,$825883.21,Female
+15,Indonesia,$3814215.47,Female
+16,China,$8251141.99,Female
+17,China,$1109731.82,Female
+18,Poland,$7495169.89,Male
+19,Canada,$8962529.72,Female
+20,Czech Republic,$3250205.58,Male
+21,China,$526079.91,Female
+22,United States,$7463115.44,Female
+23,Iraq,$5514868.70,Male
+24,Dominican Republic,$9841196.60,Male
+25,Brazil,$804157.29,Female
+26,United States,$8296648.58,Female
+27,Indonesia,$4518110.98,Male
+28,Vietnam,$2965732.37,Female
+29,Colombia,$4200988.60,Male
+30,Panama,$2880320.17,Female
+31,China,$5588537.83,Male
+32,Guinea,$5448084.42,Female
+33,Luxembourg,$3507411.72,Female
+34,Turkmenistan,$7357905.36,Female
+35,Poland,$8855126.74,Female
+36,Philippines,$175131.27,Female
+37,Peru,$3591891.69,Male
+38,Mexico,$1004528.24,Male
+39,Indonesia,$8641907.15,Male
+40,China,$4318112.89,Male
+41,Indonesia,$3948360.10,Female
+42,Luxembourg,$7960609.77,Male
+43,Argentina,$5124623.72,Male
+44,Russia,$4028224.00,Female
+45,Honduras,$9699791.64,Male
+46,Brazil,$4409491.46,Male
+47,United States,$6777244.36,Female
+48,Portugal,$5112918.71,Male
+49,Pakistan,$5183768.30,Female
+50,Egypt,$4687150.27,Female
+51,Dominican Republic,$9957994.93,Female
+52,Venezuela,$4390159.88,Female
+53,China,$5536156.44,Male
+54,Indonesia,$3671461.98,Male
+55,Indonesia,$1514464.30,Female
+56,China,$4504390.88,Female
+57,Mexico,$1064761.52,Female
+58,Peru,$8667025.53,Male
+59,France,$5369010.59,Male
+60,Peru,$6299416.54,Male
+61,Indonesia,$9900100.42,Male
+62,Sweden,$160561.05,Male
+63,Greece,$2878230.89,Male
+64,Indonesia,$540952.57,Female
+65,Vietnam,$1027306.33,Male
+66,Czech Republic,$8579950.06,Female
+67,Palestinian Territory,$733469.23,Female
+68,Papua New Guinea,$6663203.29,Female
+69,China,$2325522.06,Female
+70,Indonesia,$6979597.64,Female
+71,China,$5906672.35,Male
+72,China,$1084381.47,Female
+73,Philippines,$5141594.51,Female
+74,Portugal,$4445067.49,Male
+75,China,$8060889.02,Female
+76,Brazil,$1768848.24,Female
+77,Portugal,$5530372.99,Female
+78,Czech Republic,$5429149.96,Female
+79,Philippines,$6917318.98,Female
+80,Finland,$4341074.32,Female
+81,Ecuador,$8841096.90,Female
+82,Brazil,$1119576.75,Female
+83,Turkmenistan,$2613371.53,Male
+84,Brazil,$8515397.00,Male
+85,China,$8161241.76,Male
+86,Indonesia,$698975.97,Female
+87,Cyprus,$2804113.16,Female
+88,Peru,$9010660.59,Female
+89,China,$3066058.70,Male
+90,Jamaica,$3271570.16,Male
+91,Philippines,$5988790.28,Male
+92,Thailand,$9451035.33,Female
+93,Sweden,$8542208.35,Female
+94,France,$5320162.29,Female
+95,Poland,$2044700.66,Male
+96,Philippines,$8022646.06,Male
+97,China,$5766597.05,Male
+98,Russia,$4997671.85,Female
+99,Bahrain,$2072824.17,Female
+100,Greece,$5181254.03,Female
+101,Philippines,$6698995.19,Male
+102,South Africa,$6645359.26,Female
+103,China,$4141661.13,Male
+104,Sweden,$9672598.48,Male
+105,Nigeria,$5875864.16,Female
+106,Czech Republic,$7526250.32,Male
+107,Philippines,$5496818.70,Male
+108,Mongolia,$4854196.74,Male
+109,United States,$6871965.85,Female
+110,Indonesia,$8082624.57,Female
+111,Myanmar,$3625077.79,Male
+112,Brazil,$4787344.08,Male
+113,Cameroon,$6901938.13,Male
+114,Colombia,$2846885.96,Male
+115,Japan,$7866393.44,Male
+116,Armenia,$3904068.28,Female
+117,China,$3685030.10,Female
+118,Sweden,$5814321.20,Female
+119,China,$2382490.06,Male
+120,Croatia,$7829319.24,Female
+121,Philippines,$4428252.16,Female
+122,Czech Republic,$5906086.61,Male
+123,France,$9968251.04,Male
+124,Thailand,$2210480.13,Female
+125,China,$9117908.05,Female
+126,Egypt,$1288595.26,Male
+127,Latvia,$1484370.36,Male
+128,United States,$8566661.43,Female
+129,Brazil,$8921477.10,Female
+130,Indonesia,$4952350.36,Male
+131,Serbia,$4593538.75,Male
+132,China,$611972.87,Male
+133,Norway,$1079159.73,Male
+134,Philippines,$499118.11,Female
+135,China,$7722276.56,Female
+136,Kenya,$4789202.61,Female
+137,Poland,$6336333.54,Male
+138,Japan,$6294377.69,Male
+139,China,$7637332.74,Female
+140,Indonesia,$9211289.81,Female
+141,Norway,$9554937.98,Female
+142,Indonesia,$1533198.74,Female
+143,Japan,$1507125.66,Male
+144,Serbia,$8502536.17,Male
+145,China,$5375756.25,Female
+146,China,$6261442.63,Male
+147,Macedonia,$7888478.79,Female
+148,Ethiopia,$9007035.13,Male
+149,China,$5143263.18,Female
+150,France,$6849983.32,Male
+151,Indonesia,$4666736.06,Male
+152,Poland,$4357962.01,Female
+153,Indonesia,$4230812.10,Male
+154,China,$6319297.31,Male
+155,Brazil,$9267666.57,Female
+156,Japan,$7019069.74,Female
+157,Portugal,$9721660.49,Male
+158,Mongolia,$3997323.66,Female
+159,Indonesia,$8787142.24,Male
+160,China,$68240.46,Male
+161,Canada,$9766066.45,Male
+162,China,$5939859.19,Female
+163,Czech Republic,$702791.66,Female
+164,South Africa,$2083930.23,Female
+165,Philippines,$7684908.00,Male
+166,Poland,$7309831.72,Female
+167,Russia,$3347322.54,Female
+168,China,$3363161.18,Female
+169,Russia,$6210539.10,Male
+170,China,$3181507.77,Female
+171,China,$8539832.56,Female
+172,China,$1091903.97,Male
+173,Sweden,$8731724.84,Male
+174,Indonesia,$2913025.49,Male
+175,Indonesia,$2991675.07,Male
+176,Nigeria,$3074496.57,Female
+177,China,$1726551.31,Female
+178,Russia,$8973224.30,Male
+179,Kazakhstan,$4839465.31,Male
+180,China,$9864529.02,Female
+181,China,$912108.76,Male
+182,Czech Republic,$1875044.65,Female
+183,Tunisia,$3217509.80,Male
+184,France,$2814657.10,Female
+185,Israel,$4176861.31,Female
+186,Czech Republic,$2157017.37,Female
+187,China,$3422650.37,Female
+188,China,$709216.36,Female
+189,Guyana,$7355472.19,Male
+190,Sweden,$8476782.79,Female
+191,Indonesia,$7424126.22,Female
+192,Mozambique,$8380722.08,Female
+193,South Korea,$3159909.83,Male
+194,China,$1005983.97,Male
+195,Mongolia,$2685385.42,Female
+196,China,$3523530.99,Female
+197,Brazil,$288371.72,Female
+198,China,$6047977.41,Female
+199,Philippines,$4985978.28,Male
+200,Tanzania,$1483848.36,Male
+201,China,$6301708.29,Male
+202,Ukraine,$7731223.56,Male
+203,France,$9023496.05,Female
+204,Argentina,$2653242.88,Male
+205,Russia,$2746786.98,Female
+206,Tunisia,$2098307.21,Female
+207,Indonesia,$135896.37,Male
+208,Poland,$3952517.77,Male
+209,Croatia,$6831420.20,Female
+210,Czech Republic,$8333519.08,Male
+211,Armenia,$6128927.18,Female
+212,Portugal,$7929941.46,Male
+213,Indonesia,$709760.97,Female
+214,Philippines,$6842884.04,Male
+215,Ireland,$6216328.34,Female
+216,Mexico,$5065226.92,Female
+217,Greece,$4959048.65,Female
+218,China,$9470719.20,Male
+219,Iran,$5114463.94,Female
+220,Poland,$9286269.74,Male
+221,Russia,$9601078.32,Female
+222,China,$8146514.40,Female
+223,Czech Republic,$8473533.20,Female
+224,Albania,$8779968.02,Male
+225,Azerbaijan,$6450605.73,Female
+226,Finland,$8545889.59,Male
+227,Poland,$9039755.98,Male
+228,United States,$8478951.53,Female
+229,Indonesia,$9202674.40,Male
+230,Brazil,$7136662.44,Female
+231,China,$1099376.21,Female
+232,Russia,$614190.63,Female
+233,Indonesia,$7943997.40,Male
+234,Russia,$9803720.72,Female
+235,China,$3644458.52,Male
+236,Sweden,$6420635.83,Female
+237,Indonesia,$675340.72,Male
+238,China,$9360057.43,Male
+239,Brazil,$4998143.24,Female
+240,France,$4528779.77,Female
+241,China,$347411.82,Male
+242,Indonesia,$6256883.79,Male
+243,China,$7902560.57,Male
+244,Indonesia,$8313733.60,Female
+245,Netherlands,$3658700.52,Male
+246,Kosovo,$8866353.48,Female
+247,Peru,$7758953.01,Female
+248,Pakistan,$2067552.36,Male
+249,China,$6370322.23,Female
+250,Iran,$2821006.69,Male
+251,Philippines,$7699163.65,Female
+252,Ukraine,$2465317.24,Female
+253,Mexico,$354936.58,Female
+254,China,$9411818.91,Female
+255,Indonesia,$4266669.83,Male
+256,Vietnam,$6478417.56,Female
+257,Sweden,$5668290.85,Male
+258,Bulgaria,$7880855.27,Female
+259,Poland,$3475629.31,Female
+260,Bosnia and Herzegovina,$9660583.56,Male
+261,China,$8120014.69,Male
+262,Sweden,$3492593.79,Female
+263,China,$8777421.69,Male
+264,China,$2167250.74,Female
+265,Indonesia,$458443.29,Male
+266,Thailand,$5329985.71,Female
+267,France,$5485793.68,Male
+268,Sweden,$2598705.68,Male
+269,Chile,$1315209.70,Male
+270,Russia,$8103346.69,Male
+271,Poland,$8326280.47,Female
+272,Faroe Islands,$3019904.38,Male
+273,China,$4819505.13,Male
+274,Brazil,$2385453.59,Female
+275,Indonesia,$6455149.29,Male
+276,Norway,$8681356.88,Female
+277,Germany,$8181886.93,Male
+278,Zimbabwe,$5093702.05,Female
+279,Philippines,$5124595.03,Female
+280,France,$8754070.84,Male
+281,Vietnam,$3538830.67,Female
+282,Azerbaijan,$3722670.27,Female
+283,Marshall Islands,$8642067.98,Female
+284,Netherlands,$4950259.18,Male
+285,Philippines,$7961559.06,Male
+286,Bosnia and Herzegovina,$6678989.53,Female
+287,Poland,$1343736.27,Male
+288,Philippines,$8392759.71,Male
+289,Dominican Republic,$512117.87,Female
+290,Poland,$3879198.15,Female
+291,United States,$383423.76,Female
+292,Albania,$4643639.06,Male
+293,Brazil,$3186438.01,Male
+294,China,$8326497.55,Male
+295,Czech Republic,$6531216.61,Male
+296,Argentina,$4751577.58,Female
+297,Russia,$961753.48,Female
+298,Canada,$8030677.07,Female
+299,Indonesia,$7020377.77,Female
+300,Czech Republic,$4986576.25,Male
+301,Slovenia,$8626478.89,Male
+302,Russia,$5146196.27,Male
+303,China,$5282430.37,Male
+304,Sri Lanka,$2730824.16,Male
+305,Philippines,$8093534.81,Female
+306,Indonesia,$5415971.49,Female
+307,Denmark,$1294830.06,Female
+308,Vietnam,$407490.27,Female
+309,China,$2396754.06,Female
+310,Sweden,$457930.43,Female
+311,Russia,$7965033.32,Male
+312,China,$4254366.41,Female
+313,Syria,$280015.26,Male
+314,New Caledonia,$5375724.12,Male
+315,Finland,$5066295.27,Male
+316,El Salvador,$1484743.81,Female
+317,Russia,$1189274.99,Male
+318,Thailand,$930565.23,Male
+319,Saudi Arabia,$1089877.22,Female
+320,Russia,$6958034.40,Male
+321,Poland,$4365031.79,Male
+322,Palestinian Territory,$3155727.11,Female
+323,China,$5589728.55,Female
+324,Indonesia,$3031601.81,Female
+325,China,$3185269.19,Female
+326,Philippines,$549064.46,Female
+327,Japan,$6211098.82,Female
+328,China,$6480397.15,Female
+329,Cameroon,$5682784.07,Male
+330,Yemen,$8385658.10,Male
+331,China,$1497460.18,Female
+332,Indonesia,$1940749.03,Female
+333,Myanmar,$929561.68,Female
+334,Peru,$9744942.06,Female
+335,China,$9467960.03,Female
+336,China,$4710908.84,Male
+337,China,$3993424.05,Female
+338,Indonesia,$674435.08,Female
+339,Botswana,$4299149.92,Male
+340,China,$5757058.72,Female
+341,Colombia,$251236.49,Female
+342,Ukraine,$5482566.77,Male
+343,China,$3877176.67,Female
+344,United States,$8365545.42,Male
+345,Portugal,$8101786.58,Female
+346,Sweden,$6050257.11,Female
+347,Ukraine,$2643694.73,Male
+348,France,$9959510.18,Female
+349,China,$1961426.95,Male
+350,Russia,$9561520.74,Female
+351,Brazil,$2345814.21,Male
+352,China,$5526990.71,Male
+353,Sierra Leone,$1722556.33,Female
+354,Uganda,$8467394.79,Male
+355,Indonesia,$6589518.92,Male
+356,Greece,$1421724.21,Female
+357,France,$2377897.56,Female
+358,Russia,$5159992.04,Female
+359,China,$1109861.88,Female
+360,Vietnam,$5962437.47,Female
+361,Argentina,$1258584.04,Female
+362,Lithuania,$5688002.66,Male
+363,Indonesia,$7512625.23,Male
+364,Philippines,$6613200.64,Male
+365,Philippines,$8532892.92,Male
+366,China,$7017852.31,Male
+367,Philippines,$1694771.10,Female
+368,Senegal,$4183822.42,Male
+369,Nigeria,$1993386.98,Male
+370,Canada,$9389495.18,Female
+371,Argentina,$5610742.91,Female
+372,Russia,$9818191.46,Male
+373,Russia,$6327617.91,Male
+374,Nepal,$4602148.78,Female
+375,Laos,$2417373.54,Female
+376,Ukraine,$8367194.90,Male
+377,Netherlands,$1780692.98,Female
+378,Indonesia,$2270366.12,Female
+379,Brazil,$8223370.02,Male
+380,Cuba,$4781367.24,Male
+381,Japan,$9162217.06,Male
+382,Philippines,$3350431.07,Male
+383,China,$7710298.31,Male
+384,United States,$5995913.34,Male
+385,Ireland,$9060602.49,Female
+386,China,$2586411.31,Male
+387,China,$1976029.55,Female
+388,Mexico,$3307261.69,Male
+389,Russia,$1099816.47,Female
+390,China,$8066587.94,Female
+391,Indonesia,$7621658.74,Male
+392,Ukraine,$2534243.97,Male
+393,Bosnia and Herzegovina,$7768801.56,Female
+394,Tunisia,$5757547.01,Female
+395,Russia,$2269445.46,Female
+396,Nigeria,$9091548.88,Male
+397,Mongolia,$7119701.81,Female
+398,Nepal,$3409680.84,Male
+399,Belarus,$1181233.97,Male
+400,Kazakhstan,$9546258.90,Female
+401,Albania,$3169439.80,Female
+402,Cuba,$7752908.10,Male
+403,Japan,$3598910.23,Male
+404,United States,$5420403.40,Male
+405,Portugal,$298350.36,Female
+406,France,$3470264.07,Female
+407,Philippines,$152088.80,Female
+408,China,$7042590.53,Male
+409,Philippines,$375823.79,Male
+410,China,$7263528.85,Female
+411,Spain,$5970501.87,Male
+412,Zimbabwe,$4486577.11,Female
+413,Indonesia,$6657114.44,Female
+414,Philippines,$6176445.59,Male
+415,Indonesia,$7780748.50,Female
+416,Portugal,$6981682.20,Male
+417,Czech Republic,$3918389.68,Male
+418,Denmark,$139908.84,Male
+419,Brazil,$2456296.61,Female
+420,Peru,$167487.66,Male
+421,Portugal,$2272806.82,Female
+422,China,$9288527.67,Female
+423,China,$8872393.53,Female
+424,China,$9465211.67,Male
+425,France,$7187788.50,Female
+426,United States,$6943770.11,Female
+427,Greece,$7944393.44,Male
+428,Chile,$355453.23,Female
+429,Palestinian Territory,$3728857.91,Female
+430,Philippines,$2187127.22,Female
+431,Indonesia,$2682748.63,Female
+432,United States,$9299232.62,Female
+433,China,$9370302.27,Male
+434,Indonesia,$2606735.32,Male
+435,Ireland,$6991678.13,Male
+436,Ecuador,$9014343.71,Male
+437,Ukraine,$2204903.84,Male
+438,Afghanistan,$4683515.79,Female
+439,Greece,$6731116.57,Male
+440,Bosnia and Herzegovina,$6125404.67,Female
+441,Syria,$7198708.59,Female
+442,Sweden,$1692183.88,Female
+443,Philippines,$8539785.38,Female
+444,China,$5401085.93,Male
+445,South Africa,$6824773.32,Male
+446,China,$1419018.98,Male
+447,Ukraine,$5962853.77,Male
+448,Ukraine,$7020843.61,Female
+449,Peru,$991227.82,Female
+450,Japan,$5655812.08,Female
+451,United Kingdom,$6448412.21,Female
+452,Indonesia,$70213.78,Female
+453,China,$863359.20,Female
+454,Canada,$4062675.10,Male
+455,Brazil,$3568815.19,Male
+456,Canada,$2306894.79,Male
+457,Estonia,$5860299.67,Male
+458,Costa Rica,$5549508.49,Male
+459,China,$4305045.00,Male
+460,United States,$3118333.69,Female
+461,Serbia,$3524602.50,Male
+462,Philippines,$7285965.08,Female
+463,Pakistan,$5063889.86,Female
+464,Japan,$7038732.51,Male
+465,French Polynesia,$3629208.09,Male
+466,Poland,$6144248.99,Male
+467,China,$4012912.38,Male
+468,Russia,$7501716.29,Male
+469,Colombia,$3908989.64,Female
+470,Portugal,$6060317.30,Female
+471,Greece,$5119491.47,Male
+472,China,$3868226.34,Female
+473,China,$5289668.21,Male
+474,Gabon,$4232815.55,Female
+475,China,$4667855.21,Male
+476,United States,$4513900.20,Female
+477,Russia,$9465485.92,Male
+478,Peru,$2893118.63,Female
+479,Poland,$7562094.78,Female
+480,Macedonia,$4946480.29,Male
+481,Egypt,$1598647.58,Male
+482,Russia,$7861658.14,Male
+483,Russia,$3419472.15,Male
+484,Peru,$1498494.58,Male
+485,Thailand,$6701667.74,Female
+486,Indonesia,$7072183.63,Female
+487,Peru,$4887852.20,Male
+488,France,$3086319.62,Female
+489,Russia,$9058718.09,Female
+490,Indonesia,$1038166.53,Female
+491,China,$873971.17,Female
+492,China,$3090154.76,Male
+493,Canada,$2453581.94,Female
+494,Tajikistan,$4778302.65,Male
+495,Comoros,$5188152.44,Male
+496,China,$7649409.40,Female
+497,South Africa,$6165955.89,Female
+498,Colombia,$3195104.67,Male
+499,Chile,$8875788.05,Female
+500,United States,$8176475.16,Female
+501,Sweden,$3233464.45,Female
+502,Russia,$9089911.69,Female
+503,France,$3736023.28,Female
+504,Palestinian Territory,$8576610.07,Male
+505,Nigeria,$8277719.53,Male
+506,Colombia,$6531413.83,Male
+507,China,$2145960.38,Male
+508,Philippines,$3432451.59,Male
+509,Thailand,$3211379.16,Male
+510,Vietnam,$5468344.76,Female
+511,Russia,$6109129.01,Male
+512,Indonesia,$3593404.32,Male
+513,Estonia,$7413507.23,Female
+514,Indonesia,$7617989.78,Female
+515,China,$7602617.08,Male
+516,Indonesia,$9962665.78,Female
+517,United States,$5220578.61,Male
+518,Indonesia,$5159791.83,Female
+519,South Korea,$1221506.63,Male
+520,China,$2872557.11,Male
+521,Democratic Republic of the Congo,$6733807.77,Male
+522,Indonesia,$3203953.85,Male
+523,Russia,$707158.74,Female
+524,Poland,$1526816.45,Female
+525,Philippines,$7522522.06,Female
+526,Vietnam,$6509073.09,Male
+527,Russia,$9384198.55,Male
+528,France,$5750424.62,Male
+529,Botswana,$9861068.37,Female
+530,Poland,$7684393.97,Female
+531,China,$195650.69,Male
+532,Dominican Republic,$9690427.03,Female
+533,Philippines,$431288.97,Male
+534,Argentina,$8860712.44,Male
+535,Nicaragua,$2444434.04,Male
+536,Russia,$8534849.00,Male
+537,Poland,$2463806.23,Male
+538,Brazil,$7627544.37,Female
+539,United States,$3514990.29,Female
+540,Thailand,$3641531.71,Male
+541,Indonesia,$1343555.42,Female
+542,Brazil,$6344847.62,Male
+543,China,$1981942.61,Female
+544,United States,$2515310.70,Male
+545,Japan,$3109924.90,Male
+546,Philippines,$4638794.28,Male
+547,Ireland,$7139343.05,Female
+548,Indonesia,$2314532.40,Male
+549,China,$9962299.23,Male
+550,Peru,$5073188.52,Female
+551,Philippines,$4151049.52,Female
+552,Bolivia,$6906270.15,Male
+553,Indonesia,$1784844.29,Female
+554,Sweden,$9858217.74,Male
+555,Ukraine,$9939668.72,Female
+556,China,$1851903.65,Male
+557,Poland,$891743.14,Female
+558,Iran,$3739056.30,Male
+559,Estonia,$4606710.63,Female
+560,Norway,$2283722.99,Female
+561,Libya,$1241694.95,Male
+562,Indonesia,$8700244.82,Female
+563,China,$8722608.19,Male
+564,Vietnam,$1653809.03,Female
+565,China,$2636029.39,Female
+566,Indonesia,$5373926.42,Male
+567,China,$118207.10,Female
+568,Ethiopia,$4004122.92,Male
+569,Russia,$4881875.56,Male
+570,Zimbabwe,$7967187.89,Male
+571,Turkmenistan,$4969852.87,Male
+572,Poland,$6934767.61,Male
+573,China,$5421694.16,Female
+574,Portugal,$6106309.40,Female
+575,Nigeria,$4546679.03,Male
+576,Peru,$9896714.47,Female
+577,Japan,$9792079.64,Male
+578,Portugal,$4674143.53,Male
+579,United States,$9908284.58,Female
+580,France,$2049764.92,Male
+581,Philippines,$3958241.22,Female
+582,China,$5794054.99,Male
+583,Kazakhstan,$4169177.39,Female
+584,Brazil,$3985615.40,Male
+585,China,$5720776.19,Female
+586,Tunisia,$60788.34,Female
+587,Malta,$7134988.56,Male
+588,Portugal,$9005137.71,Female
+589,France,$3217114.68,Male
+590,Thailand,$2250510.88,Female
+591,Russia,$4171303.10,Male
+592,Canada,$6762463.55,Male
+593,Thailand,$6988230.04,Female
+594,China,$8931120.56,Male
+595,Philippines,$949747.67,Male
+596,Russia,$2946754.49,Female
+597,Yemen,$1298945.11,Female
+598,Croatia,$7649695.25,Male
+599,Mexico,$7740930.17,Male
+600,China,$5156561.63,Male
+601,Brazil,$2173684.73,Male
+602,Philippines,$4455992.67,Female
+603,China,$1472450.95,Male
+604,Mexico,$8610510.51,Male
+605,Russia,$866536.70,Male
+606,France,$1945706.40,Female
+607,Nigeria,$3196239.21,Male
+608,Vietnam,$3682621.32,Female
+609,Iran,$9677226.27,Female
+610,Myanmar,$8596024.62,Male
+611,United States,$957269.52,Male
+612,Portugal,$1451044.33,Female
+613,Portugal,$834371.77,Male
+614,China,$8486039.80,Male
+615,Nicaragua,$8695520.40,Male
+616,Indonesia,$2187698.98,Female
+617,Uganda,$1154612.29,Female
+618,Portugal,$5655798.82,Female
+619,Ukraine,$4824120.33,Female
+620,Mongolia,$2209050.45,Male
+621,Mexico,$6572479.80,Male
+622,Canada,$5020610.05,Female
+623,Belarus,$1432639.61,Male
+624,Argentina,$7146573.08,Female
+625,China,$2965588.93,Male
+626,Poland,$7691388.03,Male
+627,Mongolia,$9475699.36,Female
+628,Colombia,$3875454.50,Male
+629,China,$3448226.02,Male
+630,Antigua and Barbuda,$2905458.01,Male
+631,Morocco,$7447230.89,Male
+632,Sierra Leone,$4096637.84,Male
+633,Kosovo,$3372912.10,Male
+634,United States,$4321965.27,Male
+635,France,$7711522.86,Female
+636,Trinidad and Tobago,$8355789.14,Female
+637,China,$5352530.24,Female
+638,Indonesia,$8096356.79,Male
+639,Malaysia,$2711366.29,Female
+640,Guatemala,$649009.90,Female
+641,United States,$8818270.97,Female
+642,Peru,$8847082.82,Male
+643,South Africa,$7295813.54,Female
+644,Russia,$9472771.72,Female
+645,Indonesia,$30364.45,Male
+646,Sweden,$4382413.05,Male
+647,China,$8621491.85,Male
+648,China,$7334122.48,Male
+649,Philippines,$1776315.40,Male
+650,China,$9264609.86,Male
+651,Indonesia,$2558793.43,Male
+652,Uzbekistan,$6372357.02,Female
+653,Belarus,$6199579.84,Male
+654,Mauritius,$7455081.86,Female
+655,France,$9608234.68,Female
+656,Palestinian Territory,$185578.48,Female
+657,Philippines,$5817525.34,Male
+658,Armenia,$2060977.16,Female
+659,Kosovo,$6101749.05,Female
+660,Indonesia,$5623414.92,Female
+661,Indonesia,$2510012.43,Male
+662,Philippines,$367764.19,Female
+663,Indonesia,$4590052.19,Female
+664,China,$5275748.64,Male
+665,Russia,$9471594.75,Male
+666,Yemen,$9207063.75,Female
+667,Poland,$9723934.81,Male
+668,Indonesia,$7154878.50,Male
+669,Afghanistan,$4979056.41,Female
+670,China,$8351966.20,Female
+671,China,$5342079.91,Male
+672,Tanzania,$8806333.28,Male
+673,Russia,$1320424.05,Female
+674,China,$8985748.44,Female
+675,China,$4657868.11,Female
+676,Philippines,$2382700.23,Male
+677,Poland,$490820.88,Male
+678,China,$5090866.36,Male
+679,Brazil,$6732131.40,Male
+680,China,$8176082.48,Female
+681,United States,$8000424.84,Female
+682,Sweden,$7744545.85,Male
+683,Cameroon,$7383356.74,Male
+684,Ukraine,$6862974.39,Male
+685,Philippines,$2214071.65,Female
+686,Switzerland,$5602972.38,Female
+687,Chile,$6388662.28,Female
+688,Venezuela,$8169730.55,Female
+689,Ivory Coast,$5472511.63,Female
+690,China,$9439953.61,Male
+691,Indonesia,$386372.27,Female
+692,China,$2071839.26,Female
+693,Philippines,$4344314.99,Female
+694,Indonesia,$4549980.29,Male
+695,Russia,$8720477.49,Female
+696,Ukraine,$781292.07,Male
+697,China,$8572947.40,Male
+698,Russia,$2066091.57,Male
+699,Russia,$5174404.72,Female
+700,China,$1601996.60,Female
+701,China,$2980150.43,Female
+702,Argentina,$4182276.32,Female
+703,Mozambique,$1868721.79,Male
+704,Sweden,$3416150.77,Female
+705,Peru,$7509582.63,Female
+706,Honduras,$3025982.55,Male
+707,Vietnam,$1185470.46,Male
+708,France,$711949.46,Female
+709,United Kingdom,$8984233.01,Female
+710,Mexico,$9279040.78,Female
+711,Democratic Republic of the Congo,$3619775.72,Male
+712,Honduras,$57935.34,Female
+713,Germany,$5063418.57,Female
+714,Kyrgyzstan,$2036342.80,Male
+715,United States,$8459556.88,Female
+716,China,$7167156.62,Female
+717,Indonesia,$4176872.45,Female
+718,United Kingdom,$8342831.48,Male
+719,Chile,$1204483.90,Female
+720,Djibouti,$1913848.95,Male
+721,Venezuela,$8478510.73,Male
+722,Armenia,$9571782.06,Male
+723,Indonesia,$3787426.34,Male
+724,Brazil,$9016464.55,Male
+725,China,$6412482.47,Male
+726,China,$5193655.26,Female
+727,Cameroon,$2628747.23,Female
+728,Mexico,$6905531.46,Male
+729,El Salvador,$967705.26,Female
+730,Russia,$252072.32,Male
+731,Thailand,$2610258.55,Female
+732,Haiti,$6976830.50,Female
+733,China,$9779567.37,Male
+734,Philippines,$2074112.61,Male
+735,Japan,$4484214.72,Female
+736,Tunisia,$8568471.09,Female
+737,Poland,$4402819.66,Male
+738,China,$6162188.67,Male
+739,Philippines,$9336715.94,Female
+740,Yemen,$4941035.82,Male
+741,China,$4676106.16,Female
+742,Peru,$4139882.64,Male
+743,China,$8647144.45,Female
+744,Macedonia,$5039423.54,Male
+745,China,$7926746.30,Female
+746,China,$5912366.17,Male
+747,Somalia,$2272023.32,Female
+748,China,$7112098.82,Male
+749,Russia,$968058.58,Male
+750,France,$823648.79,Female
+751,China,$8407295.80,Male
+752,China,$8342455.38,Male
+753,Brazil,$2710024.02,Female
+754,United States,$5756176.16,Female
+755,Palestinian Territory,$2459349.87,Male
+756,Indonesia,$2832822.89,Female
+757,Cameroon,$3922928.63,Male
+758,Thailand,$7078037.44,Male
+759,Thailand,$9767906.02,Female
+760,Malawi,$1852811.14,Female
+761,Russia,$2294744.89,Male
+762,Philippines,$5309333.85,Male
+763,Indonesia,$4918760.73,Female
+764,China,$6574419.33,Male
+765,China,$1314441.65,Male
+766,China,$7009551.23,Female
+767,Cyprus,$501790.91,Male
+768,Portugal,$3596605.85,Male
+769,Indonesia,$9406916.07,Female
+770,Central African Republic,$4636790.99,Male
+771,Kazakhstan,$1143657.44,Female
+772,Brazil,$282894.45,Female
+773,China,$7668616.58,Male
+774,Indonesia,$6182642.10,Male
+775,Indonesia,$6062612.20,Male
+776,Brazil,$8662016.05,Female
+777,Cuba,$382196.54,Male
+778,Russia,$5878170.38,Female
+779,Pakistan,$2900813.00,Female
+780,Indonesia,$3039052.70,Male
+781,Portugal,$9994145.14,Male
+782,China,$3125747.16,Female
+783,Uruguay,$6427303.24,Female
+784,China,$625978.22,Male
+785,Netherlands,$2156069.87,Female
+786,Thailand,$7154066.43,Male
+787,Syria,$4224377.28,Female
+788,Poland,$9700659.25,Male
+789,Azerbaijan,$5748600.39,Female
+790,Brazil,$5329380.83,Male
+791,Sweden,$4586698.62,Female
+792,Russia,$2927884.31,Male
+793,Indonesia,$559107.54,Female
+794,China,$144245.17,Female
+795,Vietnam,$1948269.98,Male
+796,China,$9059359.56,Male
+797,Iran,$2734184.04,Female
+798,Malaysia,$7843782.27,Female
+799,France,$7190502.13,Male
+800,Croatia,$3520542.90,Female
+801,China,$2567406.40,Female
+802,Indonesia,$6258506.35,Male
+803,Indonesia,$8282378.57,Female
+804,France,$7784281.07,Female
+805,American Samoa,$2258907.04,Female
+806,Russia,$2787865.93,Female
+807,Christmas Island,$9231991.40,Male
+808,Philippines,$8365823.39,Male
+809,Pakistan,$2364965.25,Male
+810,Japan,$8250327.27,Female
+811,Philippines,$6417673.55,Male
+812,Cyprus,$1642338.74,Female
+813,Uganda,$3694721.76,Male
+814,Kyrgyzstan,$961655.49,Female
+815,United States,$4799258.77,Female
+816,Indonesia,$1796454.80,Female
+817,Peru,$6755703.32,Male
+818,China,$2031050.26,Male
+819,China,$5242685.99,Male
+820,Russia,$4339248.60,Male
+821,Indonesia,$4823550.92,Male
+822,Armenia,$1769987.47,Female
+823,Indonesia,$7286447.80,Male
+824,Nepal,$6152508.31,Female
+825,Iran,$2820061.00,Female
+826,China,$3932424.67,Male
+827,China,$9956090.00,Female
+828,Thailand,$215429.62,Male
+829,Yemen,$5138467.92,Male
+830,Indonesia,$1358972.76,Male
+831,Argentina,$3890230.36,Male
+832,Luxembourg,$805336.02,Male
+833,France,$728721.20,Male
+834,Uruguay,$235567.84,Male
+835,Sweden,$4906539.01,Female
+836,China,$5215749.57,Male
+837,China,$466053.46,Male
+838,Kazakhstan,$7400540.45,Male
+839,Yemen,$8970790.86,Male
+840,Ukraine,$8486175.54,Male
+841,Honduras,$4071289.20,Female
+842,Oman,$7528579.92,Male
+843,China,$193899.58,Male
+844,France,$9260035.43,Female
+845,Portugal,$8671786.55,Male
+846,Cuba,$5433636.48,Male
+847,China,$8752269.94,Female
+848,China,$4735333.94,Male
+849,China,$555777.65,Female
+850,China,$448505.05,Female
+851,Russia,$2948229.05,Female
+852,China,$650583.34,Male
+853,China,$2949148.80,Male
+854,Czech Republic,$4331646.81,Female
+855,Thailand,$3697920.57,Male
+856,Ethiopia,$675896.95,Female
+857,Ireland,$1040082.13,Female
+858,Indonesia,$1012748.94,Male
+859,Luxembourg,$5583198.94,Male
+860,Colombia,$5543830.53,Female
+861,Indonesia,$7670701.02,Female
+862,United States,$5672589.28,Female
+863,Poland,$3237573.76,Male
+864,Papua New Guinea,$1456467.56,Male
+865,Syria,$2817705.74,Male
+866,Portugal,$9180166.79,Female
+867,Czech Republic,$1359793.16,Female
+868,Chile,$6043509.58,Male
+869,Poland,$9360889.96,Female
+870,Indonesia,$6619143.80,Male
+871,Portugal,$897008.81,Male
+872,Greece,$9579713.90,Female
+873,Brazil,$6777146.21,Male
+874,Cameroon,$4478627.63,Male
+875,Egypt,$8184657.63,Female
+876,Greece,$9284169.87,Female
+877,Indonesia,$9376415.56,Female
+878,Nigeria,$4199266.89,Male
+879,Brazil,$8040625.31,Male
+880,Russia,$9037727.34,Female
+881,Peru,$3923290.69,Male
+882,Netherlands,$548378.77,Male
+883,Sweden,$4264285.03,Male
+884,Portugal,$9521237.49,Female
+885,Thailand,$4932960.89,Male
+886,Belarus,$793938.53,Male
+887,China,$475841.90,Female
+888,Thailand,$4639499.97,Female
+889,Indonesia,$5965612.90,Male
+890,Colombia,$6194745.47,Male
+891,Indonesia,$7639229.86,Female
+892,France,$3665123.16,Female
+893,Indonesia,$5094690.70,Female
+894,Ethiopia,$5017896.14,Male
+895,China,$6869119.91,Male
+896,Philippines,$4964663.52,Male
+897,Ivory Coast,$919256.11,Female
+898,Albania,$3774857.72,Female
+899,Palestinian Territory,$7131263.01,Male
+900,United States,$3944720.48,Female
+901,South Africa,$782223.95,Female
+902,Czech Republic,$9052399.90,Male
+903,United States,$229566.27,Female
+904,Poland,$4883733.03,Female
+905,Japan,$9636554.34,Male
+906,Portugal,$4813281.97,Female
+907,China,$403757.25,Male
+908,Sweden,$6791613.38,Female
+909,China,$2348166.85,Male
+910,China,$4368861.56,Male
+911,China,$3294724.71,Female
+912,Peru,$4606051.92,Female
+913,Paraguay,$9454106.19,Male
+914,Syria,$3126860.67,Male
+915,Nigeria,$8311966.76,Male
+916,China,$2811880.20,Male
+917,Indonesia,$5186328.97,Male
+918,Bangladesh,$4714718.17,Female
+919,China,$8424063.56,Male
+920,Poland,$7992778.65,Male
+921,China,$4024178.64,Male
+922,Philippines,$6609457.61,Female
+923,Portugal,$6848262.20,Male
+924,China,$3247008.86,Male
+925,Lithuania,$1064627.92,Male
+926,United States,$6161335.24,Male
+927,Poland,$102504.38,Female
+928,France,$7773628.67,Female
+929,China,$2046315.36,Female
+930,United States,$1470421.89,Female
+931,Greece,$7422249.96,Female
+932,Kenya,$447198.26,Female
+933,Indonesia,$6410808.84,Male
+934,Brazil,$8928043.26,Female
+935,Sweden,$6368282.41,Male
+936,China,$1439216.07,Female
+937,China,$4094475.70,Female
+938,Argentina,$5701519.97,Female
+939,Uzbekistan,$201599.91,Male
+940,Vietnam,$5469827.04,Male
+941,Jordan,$7854370.17,Female
+942,Philippines,$1352857.71,Female
+943,United States,$1725740.01,Female
+944,Afghanistan,$7830789.72,Female
+945,China,$4321375.95,Female
+946,Indonesia,$6106485.08,Female
+947,China,$738187.39,Female
+948,Philippines,$4118811.26,Female
+949,Russia,$3297827.19,Male
+950,Latvia,$6454114.94,Male
+951,Canada,$9897576.07,Male
+952,China,$7059953.34,Male
+953,Jordan,$1928262.13,Female
+954,Indonesia,$823649.73,Female
+955,Guatemala,$8919110.65,Male
+956,Poland,$7177778.90,Male
+957,Aland Islands,$6654427.72,Male
+958,Poland,$4396874.63,Female
+959,Poland,$8958274.10,Male
+960,Czech Republic,$4456298.37,Male
+961,Netherlands,$2121102.90,Male
+962,Indonesia,$9747849.73,Female
+963,Czech Republic,$6060635.84,Female
+964,Nigeria,$5504796.62,Male
+965,New Caledonia,$1765020.79,Male
+966,China,$7086765.36,Male
+967,Brazil,$6370593.89,Female
+968,Poland,$4763025.37,Female
+969,Sweden,$6243897.81,Male
+970,Rwanda,$3529101.12,Male
+971,Norway,$6062037.62,Female
+972,Croatia,$9389403.42,Male
+973,Poland,$8155305.63,Male
+974,China,$4374624.05,Female
+975,Brazil,$7641799.15,Female
+976,Indonesia,$4626743.40,Female
+977,Lithuania,$269489.27,Male
+978,Indonesia,$2712844.72,Female
+979,China,$2548579.57,Male
+980,Germany,$6334977.46,Female
+981,Egypt,$7174694.02,Female
+982,Ireland,$1137305.87,Male
+983,United States,$3105697.90,Male
+984,South Africa,$8703995.08,Male
+985,China,$2809269.34,Male
+986,Venezuela,$980555.89,Female
+987,Philippines,$7998023.70,Female
+988,Russia,$6997324.30,Male
+989,Canada,$6248228.48,Female
+990,Haiti,$5717000.64,Male
+991,Brazil,$2564943.44,Female
+992,Indonesia,$2320114.58,Female
+993,Indonesia,$7381015.23,Female
+994,Portugal,$8235355.26,Male
+995,Philippines,$4846469.06,Female
+996,Japan,$4641250.51,Female
+997,Russia,$6099340.41,Male
+998,Australia,$2205453.29,Male
+999,Ethiopia,$4307522.17,Female
+1000,Nigeria,$8631102.54,Male
